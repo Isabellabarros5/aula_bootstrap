@@ -1,4 +1,9 @@
-button{
-    color: blue;
-    background: brown;
+.navbar{
+    background-color: cadetblue;
+}
+.quemSomos{
+    background-color: darkcyan;
+}
+.margin{
+    margin-top: 80px;
 }
